@@ -98,9 +98,9 @@ A {
 
 input[type=text] {
     margin-right: 64px;
-    font-family: 'Roboto';
+    font-family:'Roboto', sans-serif;
     font-size: 1.3rem;
-    font-weight: 200;
+    font-weight: 100;
     font-style: italic;
     line-height: 1.5rem;
     width: 100%;
@@ -113,9 +113,9 @@ input[type=text] {
 
 input[type=email] {
     margin-right: 64px;
-    font-family: 'Roboto';
+    font-family:'Roboto', sans-serif;
     font-size: 1.3rem;
-    font-weight: 200;
+    font-weight: 100;
     font-style: italic;
     line-height: 1.5rem;
     width: 100%;
@@ -128,9 +128,9 @@ input[type=email] {
 
 textarea {
     margin-right: 64px;
-    font-family: 'Roboto';
+    font-family:'Roboto', sans-serif;
     font-size: 1.3rem;
-    font-weight: 200;
+    font-weight: 100;
     font-style: italic;
     line-height: 1.5rem;
     width: 100%;
@@ -181,7 +181,7 @@ textarea {
     margin-bottom: 80px;
     text-align: center;
     justify-content: center;
-    font-family: 'Inter';
+    font-family: 'Inter', sans-serif;
     font-size: 1rem;
     font-weight: 200;
     color: rgba(0, 0, 0, 0.5);
@@ -325,9 +325,9 @@ textarea {
     
     input[type=text] {
         margin-right: 64px;
-        font-family: 'Roboto';
+        font-family:'Roboto', sans-serif;
         font-size: 1.3rem;
-        font-weight: 200;
+        font-weight: 100;
         font-style: italic;
         line-height: 1.5rem;
         width: 100%;
@@ -340,9 +340,9 @@ textarea {
     
     input[type=email] {
         margin-right: 64px;
-        font-family: 'Roboto';
+        font-family:'Roboto', sans-serif;
         font-size: 1.3rem;
-        font-weight: 200;
+        font-weight: 100;
         font-style: italic;
         line-height: 1.5rem;
         width: 100%;
@@ -355,9 +355,9 @@ textarea {
     
     textarea {
         margin-right: 64px;
-        font-family: 'Roboto';
+        font-family:'Roboto', sans-serif;
         font-size: 1.3rem;
-        font-weight: 200;
+        font-weight: 100;
         font-style: italic;
         line-height: 1.5rem;
         width: 100%;
@@ -408,7 +408,7 @@ textarea {
         margin-bottom: 80px;
         text-align: center;
         justify-content: center;
-        font-family: 'Inter';
+        font-family: 'Inter', sans-serif;
         font-size: 1rem;
         font-weight: 200;
         color: rgba(0, 0, 0, 0.5);
@@ -554,9 +554,9 @@ textarea {
     
     input[type=text] {
         margin-right: 64px;
-        font-family: 'Roboto';
+        font-family: 'Roboto', sans-serif;
         font-size: 1.7rem;
-        font-weight: 200;
+        font-weight: 100;
         font-style: italic;
         line-height: 2rem;
         width: 100%;
@@ -569,9 +569,9 @@ textarea {
     
     input[type=email] {
         margin-right: 64px;
-        font-family: 'Roboto';
+        font-family: 'Roboto', sans-serif;
         font-size: 1.7rem;
-        font-weight: 200;
+        font-weight: 100;
         font-style: italic;
         line-height: 2rem;
         width: 100%;
@@ -584,9 +584,9 @@ textarea {
     
     textarea {
         margin-right: 64px;
-        font-family: 'Roboto';
+        font-family: 'Roboto', sans-serif;
         font-size: 1.5rem;
-        font-weight: 200;
+        font-weight: 100;
         font-style: italic;
         line-height: 1.7rem;
         width: 100%;
@@ -637,7 +637,7 @@ textarea {
         margin-bottom: 80px;
         text-align: center;
         justify-content: center;
-        font-family: 'Inter';
+        font-family: 'Inter', sans-serif;
         font-size: 1.5rem;
         font-weight: 200;
         color: rgba(0, 0, 0, 0.5);
@@ -787,9 +787,9 @@ textarea {
     
     input[type=text] {
         margin-right: 64px;
-        font-family: 'Roboto';
+        font-family: 'Roboto', sans-serif;
         font-size: 2rem;
-        font-weight: 200;
+        font-weight: 100;
         font-style: italic;
         line-height: 2.3rem;
         width: 100%;
@@ -802,9 +802,9 @@ textarea {
     
     input[type=email] {
         margin-right: 64px;
-        font-family: 'Roboto';
+        font-family: 'Roboto', sans-serif;
         font-size: 2rem;
-        font-weight: 200;
+        font-weight: 100;
         font-style: italic;
         line-height: 2.3rem;
         width: 100%;
@@ -817,9 +817,9 @@ textarea {
     
     textarea {
         margin-right: 64px;
-        font-family: 'Roboto';
+        font-family: 'Roboto', sans-serif;
         font-size: 1.8rem;
-        font-weight: 200;
+        font-weight: 100;
         font-style: italic;
         line-height: 2rem;
         width: 100%;
@@ -870,7 +870,7 @@ textarea {
         margin-bottom: 80px;
         text-align: center;
         justify-content: center;
-        font-family: 'Inter';
+        font-family: 'Inter', sans-serif;;
         font-size: 1.8rem;
         font-weight: 200;
         color: rgba(0, 0, 0, 0.5);
