@@ -92,7 +92,7 @@ A {
 .form_name {
     padding-left: 64px;
     font-weight: 700;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     color: #FFFFFF;
 }
 
@@ -691,6 +691,10 @@ textarea {
         font-size: 1.7rem;
         line-height: 2.3rem;
     }
+    
+    .map {
+        height: 600px;
+    }
 
 }
 
@@ -919,5 +923,9 @@ textarea {
         font-weight: 300;
         font-size: 2rem;
         line-height: 2.6rem;
+    }
+
+    .map {
+        height: 600px;
     }
 }
