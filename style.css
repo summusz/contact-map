@@ -30,7 +30,7 @@ A {
 .cont_left_h1 {
     padding-top: 42px;
     padding-left: 64px;
-    margin-right: 157px;
+    margin-right: 64px;
     margin-bottom: 24px;
     display: inline-flex;
     flex-direction: column;
@@ -39,25 +39,25 @@ A {
 }
 
 .left_h1_top {
-    font-size: 3rem;
+    font-size: 4rem;
     font-weight: 900;
-    line-height: 3.7rem;
+    line-height: 4.5rem;
 }
 
 .left_h1_bottom {
-    font-size: 2rem;
+    font-size: 3rem;
     font-weight: 900;
-    line-height: 2.5rem;
+    line-height: 3.5rem;
     color: #FFFFFF;;
 }
 
 .cont_left_h2 {
     padding-left: 64px;
-    margin-right: 206px;
+    margin-right: 64px;
     margin-bottom: 20px;
     font-weight: 300;
-    font-size: 1.5rem;
-    line-height: 1.7rem;
+    font-size: 2rem;
+    line-height: 2.4rem;
 }
 
 .success {
@@ -90,6 +90,7 @@ A {
 }
 
 .form_name {
+    margin-bottom: 5px;
     padding-left: 64px;
     font-weight: 700;
     font-size: 1.2rem;
@@ -97,6 +98,7 @@ A {
 }
 
 input[type=text] {
+    padding: 5px 15px;
     margin-right: 64px;
     font-family:'Roboto', sans-serif;
     font-size: 1.3rem;
@@ -112,6 +114,7 @@ input[type=text] {
 }
 
 input[type=email] {
+    padding: 5px 15px;
     margin-right: 64px;
     font-family:'Roboto', sans-serif;
     font-size: 1.3rem;
@@ -127,6 +130,7 @@ input[type=email] {
 }
 
 textarea {
+    padding: 20px 15px;
     margin-right: 64px;
     font-family:'Roboto', sans-serif;
     font-size: 1.3rem;
@@ -161,6 +165,7 @@ textarea {
     box-sizing: border-box;
     justify-content: center;
     text-align: center;
+    padding: 5px 0px;
     margin-left: 64px;
     margin-right: 64px;
     margin-bottom: 15px;
@@ -182,7 +187,8 @@ textarea {
     text-align: center;
     justify-content: center;
     font-family: 'Inter', sans-serif;
-    font-size: 1rem;
+    font-size: 1.5rem;
+    line-height: 2rem;
     font-weight: 200;
     color: rgba(0, 0, 0, 0.5);
 }
@@ -257,7 +263,7 @@ textarea {
     .cont_left_h1 {
         padding-top: 42px;
         padding-left: 64px;
-        margin-right: 157px;
+        margin-right: 60px;
         margin-bottom: 24px;
         display: inline-flex;
         flex-direction: column;
@@ -266,25 +272,25 @@ textarea {
     }
     
     .left_h1_top {
-        font-size: 3rem;
+        font-size: 4rem;
         font-weight: 900;
-        line-height: 3.7rem;
+        line-height: 4.5rem;
     }
     
     .left_h1_bottom {
-        font-size: 2rem;
+        font-size: 3rem;
         font-weight: 900;
-        line-height: 2.5rem;
+        line-height: 4rem;
         color: #FFFFFF;;
     }
     
     .cont_left_h2 {
         padding-left: 64px;
-        margin-right: 206px;
+        margin-right: 20px;
         margin-bottom: 20px;
         font-weight: 300;
-        font-size: 1.5rem;
-        line-height: 1.7rem;
+        font-size: 2rem;
+        line-height: 2.4rem;
     }
     
     .success {
@@ -318,6 +324,7 @@ textarea {
     
     .form_name {
         padding-left: 64px;
+        margin-bottom: 5px;
         font-weight: 700;
         font-size: 1.3rem;
         color: #FFFFFF;
@@ -409,7 +416,8 @@ textarea {
         text-align: center;
         justify-content: center;
         font-family: 'Inter', sans-serif;
-        font-size: 1rem;
+        font-size: 1.5rem;
+        line-height: 2rem;
         font-weight: 200;
         color: rgba(0, 0, 0, 0.5);
     }
@@ -485,9 +493,9 @@ textarea {
     
     .cont_left_h1 {
         padding-top: 42px;
-        padding-left: 64px;
-        margin-right: 157px;
-        margin-bottom: 24px;
+        padding-left: 100px;
+        margin-right: 60px;
+        margin-bottom: 40px;
         display: inline-flex;
         flex-direction: column;
         justify-content: center;
@@ -495,33 +503,33 @@ textarea {
     }
     
     .left_h1_top {
-        font-size: 3.5rem;
+        font-size: 4.8rem;
         font-weight: 900;
-        line-height: 4rem;
+        line-height: 5.3rem;
     }
     
     .left_h1_bottom {
-        font-size: 2.5rem;
+        font-size: 3.4rem;
         font-weight: 900;
-        line-height: 3rem;
+        line-height: 3.8rem;
         color: #FFFFFF;;
     }
     
     .cont_left_h2 {
-        padding-left: 64px;
-        margin-right: 206px;
-        margin-bottom: 20px;
+        padding-left: 100px;
+        margin-right: 60px;
+        margin-bottom: 30px;
         font-weight: 300;
         font-size: 2rem;
-        line-height: 2.3rem;
+        line-height: 2.5rem;
     }
     
     .success {
-        margin-bottom: 5px;
-        margin-left: 64px;
-        margin-right: 64px;
-        font-size: 1.5rem;
-        line-height: 1.7rem;
+        margin-bottom: 20px;
+        margin-left: 100px;
+        margin-right: 60px;
+        font-size: 1.7rem;
+        line-height: 2rem;
         justify-content: center;
         display: inline-flex;
         text-align: center;
@@ -531,11 +539,11 @@ textarea {
     }
     
     .error {
-        margin-bottom: 5px;
-        margin-left: 64px;
-        margin-right: 64px;
-        font-size: 1.5rem;
-        line-height: 1.7rem;
+        margin-bottom: 20px;
+        margin-left: 100px;
+        margin-right: 60px;
+        font-size: 1.7rem;
+        line-height: 2rem;
         justify-content: center;
         display: inline-flex;
         text-align: center;
@@ -546,19 +554,21 @@ textarea {
     }
     
     .form_name {
-        padding-left: 64px;
+        padding-left: 100px;
+        margin-bottom: 10px;
         font-weight: 700;
-        font-size: 1.7rem;
+        font-size: 2rem;
         color: #FFFFFF;
     }
     
     input[type=text] {
-        margin-right: 64px;
+        padding: 20px 20px;
+        margin-right: 60px;
         font-family: 'Roboto', sans-serif;
-        font-size: 1.7rem;
+        font-size: 2.4rem;
         font-weight: 100;
         font-style: italic;
-        line-height: 2rem;
+        line-height: 3.2rem;
         width: 100%;
         min-height: 40px;
         display: inline-flex;
@@ -568,12 +578,13 @@ textarea {
     }
     
     input[type=email] {
-        margin-right: 64px;
+        padding: 20px 20px;
+        margin-right: 60px;
         font-family: 'Roboto', sans-serif;
-        font-size: 1.7rem;
+        font-size: 2.4rem;
         font-weight: 100;
         font-style: italic;
-        line-height: 2rem;
+        line-height: 3.2rem;
         width: 100%;
         min-height: 40px;
         display: inline-flex;
@@ -583,14 +594,15 @@ textarea {
     }
     
     textarea {
-        margin-right: 64px;
+        padding: 40px 20px;
+        margin-right: 60px;
         font-family: 'Roboto', sans-serif;
-        font-size: 1.5rem;
+        font-size: 2.4rem;
         font-weight: 100;
         font-style: italic;
-        line-height: 1.7rem;
+        line-height: 3.2rem;
         width: 100%;
-        min-height: 164px;
+        min-height: 250px;
         display: inline-flex;
         justify-content: center;
         outline:none;
@@ -598,16 +610,16 @@ textarea {
     }
     
     .form {
-        padding-left: 64px;
-        margin-bottom: 15px;
+        padding-left: 100px;
+        margin-bottom: 40px;
         display: inline-flex;
         text-align: left;
         justify-content: center;
     }
     
     .form_message {
-        padding-left: 64px;
-        margin-bottom: 15px;
+        padding-left: 100px;
+        margin-bottom: 40px;
         display: inline-flex;
         text-align: left;
         justify-content: center;
@@ -617,14 +629,15 @@ textarea {
         box-sizing: border-box;
         justify-content: center;
         text-align: center;
-        margin-left: 64px;
-        margin-right: 64px;
-        margin-bottom: 15px;
+        padding: 10px 20px;
+        margin-left: 100px;
+        margin-right: 60px;
+        margin-bottom: 40px;
         background: #FFFFFF;
         border: 1px solid #0F0F0E;
         font-weight: 400;
-        font-size: 2.3rem;
-        line-height: 2.5rem;
+        font-size: 2.5rem;
+        line-height: 2.7rem;
         transition: background-color 0.3s ease 0s;
     }
     .form_btn:hover {
@@ -632,13 +645,14 @@ textarea {
     }
     
     .personal_data {
-        padding-left: 64px;
-        margin-right: 64px;
+        padding-left: 100px;
+        margin-right: 60px;
         margin-bottom: 80px;
         text-align: center;
         justify-content: center;
-        font-family: 'Inter', sans-serif;
-        font-size: 1.5rem;
+        font-family: 'Inter', sans-serif;;
+        font-size: 2rem;
+        line-height: 2.5rem;
         font-weight: 200;
         color: rgba(0, 0, 0, 0.5);
     }
@@ -660,8 +674,8 @@ textarea {
         justify-content: center;
         text-align: right;
         flex-direction: column;
-        font-size: 3.5rem;
-        line-height: 4rem;
+        font-size: 4.8rem;
+        line-height: 5.3rem;  
     }
     
     .right_h1_bottom {
@@ -671,8 +685,6 @@ textarea {
     .cont_right_p {
         padding-top: 36px;
         padding-right: 64px;
-        font-size: 1.8em;
-        line-height: 2.3rem;
         display: inline-flex;
         flex-direction: column;
         text-align: right;
@@ -680,22 +692,21 @@ textarea {
     
     .right_p_bold {
         font-weight: 900;
-        font-size: 1.8rem;
-        line-height: 2.3rem;
+        font-size: 3rem;
+        line-height: 3.5rem;
         display: inline-flex;
         flex-direction: column;
     }
     
     .right_p_regular {
         font-weight: 300;
-        font-size: 1.7rem;
-        line-height: 2.3rem;
+        font-size: 3rem;
+        line-height: 3.5rem;
     }
-    
+
     .map {
         height: 600px;
     }
-
 }
 
 @media screen and (max-device-width : 420px) {
@@ -718,9 +729,9 @@ textarea {
     
     .cont_left_h1 {
         padding-top: 42px;
-        padding-left: 64px;
-        margin-right: 157px;
-        margin-bottom: 24px;
+        padding-left: 100px;
+        margin-right: 64px;
+        margin-bottom: 40px;
         display: inline-flex;
         flex-direction: column;
         justify-content: center;
@@ -728,31 +739,31 @@ textarea {
     }
     
     .left_h1_top {
-        font-size: 3.8rem;
+        font-size: 4.8rem;
         font-weight: 900;
-        line-height: 4.3rem;
+        line-height: 5.3rem;
     }
     
     .left_h1_bottom {
-        font-size: 2.8rem;
+        font-size: 3.4rem;
         font-weight: 900;
-        line-height: 3.3rem;
+        line-height: 3.8rem;
         color: #FFFFFF;;
     }
     
     .cont_left_h2 {
-        padding-left: 64px;
-        margin-right: 206px;
-        margin-bottom: 20px;
+        padding-left: 100px;
+        margin-right: 64px;
+        margin-bottom: 30px;
         font-weight: 300;
-        font-size: 2.3rem;
-        line-height: 2.6rem;
+        font-size: 2rem;
+        line-height: 2.5rem;
     }
     
     .success {
-        margin-bottom: 5px;
-        margin-left: 64px;
-        margin-right: 64px;
+        margin-bottom: 20px;
+        margin-left: 100px;
+        margin-right: 60px;
         font-size: 1.8rem;
         line-height: 2rem;
         justify-content: center;
@@ -764,9 +775,9 @@ textarea {
     }
     
     .error {
-        margin-bottom: 5px;
-        margin-left: 64px;
-        margin-right: 64px;
+        margin-bottom: 20px;
+        margin-left: 100px;
+        margin-right: 60px;
         font-size: 1.8rem;
         line-height: 2rem;
         justify-content: center;
@@ -779,19 +790,21 @@ textarea {
     }
     
     .form_name {
-        padding-left: 64px;
+        padding-left: 100px;
+        margin-bottom: 20px;
         font-weight: 700;
         font-size: 2rem;
         color: #FFFFFF;
     }
     
     input[type=text] {
-        margin-right: 64px;
+        padding: 20px 20px;
+        margin-right: 60px;
         font-family: 'Roboto', sans-serif;
-        font-size: 2rem;
+        font-size: 2.5rem;
         font-weight: 100;
         font-style: italic;
-        line-height: 2.3rem;
+        line-height: 3.5rem;
         width: 100%;
         min-height: 40px;
         display: inline-flex;
@@ -801,12 +814,13 @@ textarea {
     }
     
     input[type=email] {
-        margin-right: 64px;
+        padding: 20px 20px;
+        margin-right: 60px;
         font-family: 'Roboto', sans-serif;
-        font-size: 2rem;
+        font-size: 2.5rem;
         font-weight: 100;
         font-style: italic;
-        line-height: 2.3rem;
+        line-height: 3.5rem;
         width: 100%;
         min-height: 40px;
         display: inline-flex;
@@ -816,14 +830,15 @@ textarea {
     }
     
     textarea {
-        margin-right: 64px;
+        padding: 40px 20px;
+        margin-right: 60px;
         font-family: 'Roboto', sans-serif;
-        font-size: 1.8rem;
+        font-size: 2.5rem;
         font-weight: 100;
         font-style: italic;
-        line-height: 2rem;
+        line-height: 3.5rem;
         width: 100%;
-        min-height: 164px;
+        min-height: 250px;
         display: inline-flex;
         justify-content: center;
         outline:none;
@@ -831,16 +846,16 @@ textarea {
     }
     
     .form {
-        padding-left: 64px;
-        margin-bottom: 15px;
+        padding-left: 100px;
+        margin-bottom: 40px;
         display: inline-flex;
         text-align: left;
         justify-content: center;
     }
     
     .form_message {
-        padding-left: 64px;
-        margin-bottom: 15px;
+        padding-left: 100px;
+        margin-bottom: 40px;
         display: inline-flex;
         text-align: left;
         justify-content: center;
@@ -850,9 +865,10 @@ textarea {
         box-sizing: border-box;
         justify-content: center;
         text-align: center;
-        margin-left: 64px;
-        margin-right: 64px;
-        margin-bottom: 15px;
+        padding: 10px 20px;
+        margin-left: 100px;
+        margin-right: 60px;
+        margin-bottom: 40px;
         background: #FFFFFF;
         border: 1px solid #0F0F0E;
         font-weight: 400;
@@ -865,13 +881,14 @@ textarea {
     }
     
     .personal_data {
-        padding-left: 64px;
-        margin-right: 64px;
+        padding-left: 100px;
+        margin-right: 60px;
         margin-bottom: 80px;
         text-align: center;
         justify-content: center;
         font-family: 'Inter', sans-serif;;
-        font-size: 1.8rem;
+        font-size: 2rem;
+        line-height: 2.5rem;
         font-weight: 200;
         color: rgba(0, 0, 0, 0.5);
     }
@@ -893,8 +910,8 @@ textarea {
         justify-content: center;
         text-align: right;
         flex-direction: column;
-        font-size: 3.8rem;
-        line-height: 4.3rem;
+        font-size: 4.8rem;
+        line-height: 5.3rem;  
     }
     
     .right_h1_bottom {
@@ -904,8 +921,6 @@ textarea {
     .cont_right_p {
         padding-top: 36px;
         padding-right: 64px;
-        font-size: 2.1em;
-        line-height: 2.6rem;
         display: inline-flex;
         flex-direction: column;
         text-align: right;
@@ -913,16 +928,16 @@ textarea {
     
     .right_p_bold {
         font-weight: 900;
-        font-size: 2.1rem;
-        line-height: 2.6rem;
+        font-size: 3rem;
+        line-height: 3.5rem;
         display: inline-flex;
         flex-direction: column;
     }
     
     .right_p_regular {
         font-weight: 300;
-        font-size: 2rem;
-        line-height: 2.6rem;
+        font-size: 3rem;
+        line-height: 3.5rem;
     }
 
     .map {
